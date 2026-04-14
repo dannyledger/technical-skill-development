@@ -1,4 +1,4 @@
-## Welcome to my technical skill development space 🛠️💡😊
+## Welcome to my skill development space 🛠️💡😊
 
 This is where I house all my _(audience-friendly)_ practice projects and case studies. 
 
