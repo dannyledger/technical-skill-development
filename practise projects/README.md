@@ -1,6 +1,7 @@
-## Welcome to my technical skill portfolio 🛠️💡😊
+## Welcome to my technical skill development space 🛠️💡😊
 
 This is where I house all my _(audience-friendly)_ practice projects and case studies. 
+
 The majority of my work in SQL and Python is produced with an aim of demonstrating _developing_-skills in various aspects of data, particulary data engineering.
 
 Please note: the tasks and datasets likely originate either from _DataCamp_’s various courses, _Udemy_ bootcamps, or various code-alongs available online from tech companies (eg. _IBM_, _Google_, _Snowflake_) and general _YouTube_ content.
