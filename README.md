@@ -12,7 +12,7 @@ Below is an overview of the various projects that can be found, and the skills (
 
 ```
 
-portfolio/
+projects
 │
 ├── data_analysis/                        # Exploratory analysis and wrangling with Pandas
 │   ├── SATS_scores/                      # Grouping, merging, conditional logic in Pandas
