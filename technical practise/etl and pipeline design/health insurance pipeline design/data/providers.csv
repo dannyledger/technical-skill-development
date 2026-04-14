@@ -1,0 +1,26 @@
+provider_id,name,speciality,city
+P001,Provider_1,Orthopaedics,Christchurch
+P002,Provider_2,General,Dunedin
+P003,Provider_3,Primary Care,Christchurch
+P004,Provider_4,Radiology,Hamilton
+P005,Provider_5,Orthopaedics,Christchurch
+P006,Provider_6,Orthopaedics,Auckland
+P007,Provider_7,Orthopaedics,Auckland
+P008,Provider_8,Primary Care,Christchurch
+P009,Provider_9,Radiology,Wellington
+P010,Provider_10,Orthopaedics,Auckland
+P011,Provider_11,Cardiology,Wellington
+P012,Provider_12,Cardiology,Christchurch
+P013,Provider_13,Radiology,Dunedin
+P014,Provider_14,Orthopaedics,Hamilton
+P015,Provider_15,Primary Care,Dunedin
+P016,Provider_16,Cardiology,Hamilton
+P017,Provider_17,Orthopaedics,Dunedin
+P018,Provider_18,Primary Care,Hamilton
+P019,Provider_19,Cardiology,Auckland
+P020,Provider_20,Radiology,Auckland
+P021,Provider_21,Orthopaedics,Christchurch
+P022,Provider_22,Primary Care,Auckland
+P023,Provider_23,Radiology,Hamilton
+P024,Provider_24,Orthopaedics,Auckland
+P025,Provider_25,Primary Care,Dunedin

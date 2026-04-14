@@ -1,0 +1,6 @@
+Credit score,Applications percent,Approval rate,Default rate 6m
+750 or more,20.0%,95.0%,0.5%
+700 to 749,30.0%,85.0%,1.5%
+650 to 699,25.0%,60.0%,3.0%
+600 to 649,15.0%,30.0%,5.5%
+Less than 600,10.0%,10.0%,12.0%
